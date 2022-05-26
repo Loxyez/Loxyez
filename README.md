@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loxyez
-- 👀 I’m interested in Coding, Php, Mysql, DB, C, Java
+- 👀 I’m interested in Coding, php, Mysql, DB, C, Java, and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Back end
 - 📫 How to reach me Discord loxy#0899

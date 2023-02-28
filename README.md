@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t39.30808-6/328632409_1254069975145179_1475796516960294182_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFtEgL1rGLkuGVWDBoxe-nMf_lMyrwRYtl_-UzKvBFi2UjLS14ojQHokFzozboM95N6nD1GE6RrKg47hawdoBP6&_nc_ohc=1TDN-ymi9SQAX-eLRkq&_nc_ht=scontent.fkdt1-1.fna&oh=00_AfCNE5Fyuuzis9ybyLS5wekDqXnwoggCShtjVU_NrwHleA&oe=64036164" height="200"/>
-</p>
+
 <br>
 
 <p align="left"> 

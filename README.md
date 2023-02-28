@@ -48,8 +48,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg"> </code>
+  <code><img height="50" src="https://img.icons8.com/color/48/null/git.png"></code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/null/python--v1.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>

@@ -1,8 +1,9 @@
-
+<p align="center">
+  <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t39.30808-6/305397411_3248162882181131_1224329083932130708_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEGQlaQjqz-6QGA7JM9H6_KyMITBQdeB9_IwhMFB14H39WnC2VDVHNij-__adMCfdgNoxP6ZJ0y2s1LeLbJLK6K&_nc_ohc=n2oxifKv8boAX8MkCw1&_nc_ht=scontent.fkdt1-1.fna&oh=00_AfC5rbEfLITes2HEsMT04eNZg5ib7X9APxRnT_JOrc1qlg&oe=640231CE" height="200"/>
+</p>
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />

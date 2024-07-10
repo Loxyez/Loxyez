@@ -25,7 +25,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Chanatip Deemee a <b>third year</b> undergraduate from <a href="https://www.ict.mahidol.ac.th/"> <b>Mahidol University</b>, Nakhorn Pathom (" Wisdom of land ")</a>. <br>
+    Hello, I am Chanatip Deemee a graduated student from <a href="https://www.ict.mahidol.ac.th/"> <b>Mahidol University</b>, Nakhorn Pathom (" Wisdom of land ")</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 

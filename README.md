@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t39.30808-6/305397411_3248162882181131_1224329083932130708_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEGQlaQjqz-6QGA7JM9H6_KyMITBQdeB9_IwhMFB14H39WnC2VDVHNij-__adMCfdgNoxP6ZJ0y2s1LeLbJLK6K&_nc_ohc=n2oxifKv8boAX8MkCw1&_nc_ht=scontent.fkdt1-1.fna&oh=00_AfC5rbEfLITes2HEsMT04eNZg5ib7X9APxRnT_JOrc1qlg&oe=640231CE" height="200"/>
-</p>
-<br>
-
 <p align="left"> 
  </p>
  <p align="center">
@@ -13,7 +8,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chanatip Deemee </h1>
-<h3 align="center">Machine Learning | Data Scientist </h3>
+<h3 align="center">Machine Learning | Data Scientist | Dev-Ops Engineer | Cloud Infra </h3>
 <p align="center">
 <a href="https://www.instagram.com/sir_chanatip/" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" alt="insta_chanatip" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ChanatipDe/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>

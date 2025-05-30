@@ -1,77 +1,88 @@
-<p align="left"> 
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Dev%20Ops-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Thailand-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Thai-brightgreen" />
 </p>
+
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chanatip Deemee </h1>
-<h3 align="center">Machine Learning | Data Scientist | Dev-Ops Engineer | Cloud Infra </h3>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Chanatip Deemee</h1>
+<h3 align="center">Machine Learning Engineer | Data Scientist | DevOps Engineer | Cloud Infra Enthusiast</h3>
+
 <p align="center">
-<a href="https://www.instagram.com/sir_chanatip/" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/instagram-new--v1.png" alt="insta_chanatip" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ChanatipDe/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: chanatip.dee@student.mahidol.edu"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
+  <a href="https://www.instagram.com/sir_chanatip/" target="_blank">
+    <img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/ChanatipDe/" target="_blank">
+    <img src="https://www.svgrepo.com/show/299425/facebook.svg" height="30" width="40" />
+  </a>
 </p>
 
-
+---
 
 <p align="center">
   <em>
-    Hello, I am Chanatip Deemee a graduated student from <a href="https://www.ict.mahidol.ac.th/"> <b>Mahidol University</b>, Nakhorn Pathom (" Wisdom of land ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "<br>Do it alone <br> Do it broke <br> Do it tired <br> Do it scared <br> Just do it” <br></i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+    I'm a graduate of <a href="https://www.ict.mahidol.ac.th/">Mahidol University</a> in Nakhon Pathom ("Wisdom of the land"). <br>
+    A passionate <b>self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>Machine Learning enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, <br>
+    driven to uncover hidden patterns and insights within data. 
+  </em>
 </p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <code><img height="50" src="https://img.icons8.com/color/48/null/git.png"></code>
-  <code> <img height="50" src="https://img.icons8.com/color/48/null/python--v1.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-<hr>  
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loxyez&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Loxyez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> 
+  <b><i>"Do it alone. Do it broke. Do it tired. Do it scared. Just do it."</i></b> 
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
------
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+---
 
-Last Edited on: 01/03/2021
+### 👨‍💻 About Me
 
+✔ **Pronouns**: He/Him • Team Player 🤝  
+✔ Currently learning: **Deep Learning** 🤖  
+✔ Open to collaborating on: **Open-Source Data Science projects** 🌍  
+✔ Ask me anything — I’ll reply as fast as I can! 🚀  
+✔ Fun fact: *I always try to learn something new and let it "sink in" overnight 😄*
 
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="fun gif"/>
 
+---
 
+### 🛠️ My Tech Stack & Tools
+
+<p align="left">
+  <code><img height="50" src="https://img.icons8.com/color/48/null/git.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/null/python--v1.png"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width="100"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Loxyez&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loxyez&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" />
+</p>
+
+---
+
+Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)  
+_Last updated: 2025-05-30_
